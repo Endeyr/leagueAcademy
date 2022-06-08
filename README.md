@@ -1,2 +1,2 @@
-# leagueAcademy
-League Academy discord files. 
+# League Academy Discord Directory
+League Academy ...
