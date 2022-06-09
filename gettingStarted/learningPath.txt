@@ -4,6 +4,9 @@ Welcome to League Academy. This is our currated learning path to help you improv
 
 This is a self-paced guide to help our community start their improvement journey. While this guide is aiming at new players, we think it will be helpful to those of all experience and elo. Take a look at each section at your own convienience, ask questions when you feel stuck, and most of all have fun!
 
+**Disclaimer**
+  This guide is not an end all be all but intended as a starting point. Not everything in the guide will be 100% agreed upon best practice but instead curated information aimed at a general new player. If you feel that something in the guide is unclear, incorrect, or you just want your opinion to be heard, please dm a staff member or fill our <insert form>. Thank you for taking the time to read this and good luck on your journey!
+
 **Directory**
 settings
 
