@@ -1,0 +1,25 @@
+**__Champion__**
+
+This section of the guide will help you better understand the champion you play and your role in the game. It is intended to be the foundation of which you can build a better understanding.
+
+**know your champion:**
+  passive
+  ability
+  ability order
+  ability power spikes
+  combos
+  core runes
+  situational runes
+  core items
+  situational items
+  item buy timings
+
+Go into practice tool as your "main" champion (or look on the wiki). This can be one you play the most, one you want to learn, ect. Actually read your passive. Think about and understand what it does. Read each ability in the same way. Note the base damages, the ratios, the damage type, cooldown, mana cost, ect. You'd be surprised how little people know about the champion they play. 
+
+**Gameplan:**
+  With this information you can now begin to build a gameplan of how you want to play each part of the game. Start simple by writing down how you want to play laning (early game), mid-game, and teamfights. For example, on Syndra I know I am a midrange mage so early game I have a plan for if they are shorter range than me (harrass) or longer range than me (avoid harass) and at lv 6 I can kill by hitting my combo (involves maximizing my ult's damage). For mid game I want to farm to my items catching side waves but not pushing out too far (I have limited mobility). Then in teamfights if I am ahead I play to burst a target, if behind I play to peel ofr my most fed member. This sounds like alot but once you start doing it for your own champsion the knowledge builds upon itself. This foundation allows you to have a plan for every matchup, even if its not a good plan or it doesn't work out. Mistakes are a key part of the learning process. 
+  
+**Picking Your Champions**
+  Players will often ask, "should I play x, y, or z. q is strong but not in meta. I don't like w but hes meta..." and my response is always "play what you enjoy." Part of that is because at the end of the day, this is a game and you should enjoy playing it. But also you are more likely to put the time in required to learn a champion to its max if you truely enjoy playing the champion. I enjoy Wukong, so putting in 20 games of the moneky is easy. If I tried to do that with Warwick I would never make it past 3 games. League is a large time sink, that time sink isn't worth it for everyone but that's the reality of it. If you want to be good at it you need to put the time in and make sure you are making good use of the time you put in by having focus. 
+
+(Courtesy of @LightsOut263#2563)
