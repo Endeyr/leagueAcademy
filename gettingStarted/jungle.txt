@@ -1,3 +1,39 @@
 **__Jungle__**
 
+**Beginner's Guide to Jungling in Soloq**
 
+The purpose of this guide is to simplify the role for new players or those new to the role. 
+
+Terminology: 
+  pathing - the direction of your jungle clear ie order you kill your camps. 
+  reset - recalling to base to buy items. 
+  cross map - the opposite side of the map as the enemy jungler (or opposite the enemy team strong side.)
+  strong side - the side of the map with more players. ie your jungler and support roamed top, this is your strong side till they reset / leave.
+  weak side - the side of the map with less players. ie your jungler is bot side so top is weak side till jungler paths to top. 
+
+Jungle is a simple role to play. Farm your camps efficiently, gank every lane, stop the enemy jungler from ganking your lanes, farm the enemy jungle camps, get every objective, all while being flamed by your teammates, who, by the way, don't play your role!
+
+So why play jungle? I think jungle is a very rewarding role to play, with agency and skill expression. So how do we jungle? Refer back to my idiom, kinda. A simpler way to view jungle is 1) clear camps, 2) watch lanes, 3) react & adapt. Lets break those down into more detail. 
+
+1) Clear Camps: 
+  Your camps are the most consistent source of xp and gold as a jungler. The amount of xp and gold you get from your camps varies not just from camp to camp but historically, a patch will change the economy of jungle. Economy meaning the total amount of resources available. As of this writing, a full clear, defined as killing all 6 of your camps, rewards you with level 4 and 570g (plus 20.4g per 10s; starting at 1:50). 
+
+  Gameplan: 
+    Identify your champion's strong levels and items. This is relative to the game but you can simplify it down as a base then adapt from there (we will get to that soon). For example; take Kindred. Strong duelist vs most other junglers so as a base your plan can be to get red (lv 2) and invade enemy jungle. This is a very common Kindred strategy, so a Kindred player may go into the game with this strategy and adjust based on the other champions in the game or how the lv 1 goes. Next, look at Ekko. Ekko needs all 3 of his abilities to gank effectively, in most situations. Ekko is also very strong at lv 6, as an ultimate reliant champion. Therefore, the Ekko player comes into the game with a plan of full clearing (lv 4) and looking for gank opportunities starting at lv 3 (once he clears a full jungle side). After the 1st full clear, the Ekko player has a plan of full clearing again to get lv 6 around 7 minutes. Once lv 6, the player will look to be aggressive to push their lead. As you get better and more comfortable, you can add in your item buys into your plans. For example, 1100g is a very strong spike for many ap junglers as they can buy sorc shoes. So having a plan to get to that gold amount, taking a reset, then lookin to gank, invade, or force a fight will make you snowball games more consistently. 
+
+2) Watch Lanes: 
+  Having knowledge of your lanes is key to success in the jungle. If you don't know what is happening in the lanes, you can't effectively plan your jungle paths, find free gank opportunities, or even counter jungle / counter gank! This doesn't mean you absolutely need to use F keys to look at lanes but you need to be looking at the minimap and your allies health. This information, while you take your camps, will inform your next moves and as you learn you will become a better jungler and player. 
+
+3a) React:
+  You have your gameplan, jungle clear and items / lv spikes, and are watching lanes while you clear. What next? Now you react to what you see on the map. For example, you plan to take 3 camps and get lv 3. While doing so the enemy jungler shows on the opposite side of the map where you are pathing. Now with that information you can freely take his jungle camps or gank a lane without threat of counter gank instead of continuing your planned clear. This punishes the enemy jungler or evens out the trade if he had a successful gank. Failure to capitalize on these opportunities will put you behind in the game. Take risk and learn from them. 
+
+3b) Adapt: 
+  As the game progresses, check in with your plan. If you are behind as Talon your gameplan may switch from trying to pick someone out to peeling for your fed adc. Your plan to stack dragons might change to getting both heralds as your bot lane dies on repeat. Play to your strong lanes and players and enable your team to snowball. If you have a top Fiora thats 4-0, play around her so she doesn't lose her bounty. They gold the enemy team gains from the bounty is worth more than the camps you took on your bot side. 
+
+Assignments: 
+
+Extra Resources: 
+
+Next Steps: 
+
+Extra Links: 
