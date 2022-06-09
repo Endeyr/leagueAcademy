@@ -1,1 +1,30 @@
 **__Learning Path__**
+
+Welcome to League Academy. This is our currated learning path to help you improve at league. 
+
+This is a self-paced guide to help our community start their improvement journey. While this guide is aiming at new players, we think it will be helpful to those of all experience and elo. Take a look at each section at your own convienience, ask questions when you feel stuck, and most of all have fun!
+
+**Directory**
+settings
+
+champion
+
+matchups
+
+lane
+
+jungle
+
+support
+
+training guide
+
+team comps
+
+mid & late game
+
+draft
+
+links & spreadsheets
+
+(Courtesy of @LightsOut263#2563)
