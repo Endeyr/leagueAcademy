@@ -1,1 +1,26 @@
 **__Settings__**
+
+Optimized League settings
+
+video:
+  no lock screen - use the spacebar / toggle
+  change graphics to medium or low
+  turn off shadows, anti-aliasing, character inking
+  cap fps to 144
+
+hotkeys -
+  use quickcast w or w/o indicators (without is better)
+  bind auto attack move to left click (you will get used to it) or use a click
+  use self-cast and level up ability hot keys
+
+interface - 
+  show all combat text
+  disable show summoner names
+  turn on show spell cost
+  turn off all + ally chat
+
+game - gameplay
+  turn on movement prediction
+  turn on atk move on cursor
+
+(Courtesy of @LightsOut263#2563)
