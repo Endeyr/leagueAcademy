@@ -1,6 +1,5 @@
 **__Settings__**
-
-Optimized League settings
+  Optimized League settings
 
 video:
   no lock screen - use the spacebar / toggle
@@ -22,5 +21,9 @@ interface -
 game - gameplay
   turn on movement prediction
   turn on atk move on cursor
+
+persistent settings (helpful if you have multiple accounts)
+  Log on to any account, play a game and change settings to what you would like them to be forever.
+  Go to your League of Legends folder -> Config folder -> tick the file "Persisted Settings. json" as "read-only."  
 
 (Courtesy of @LightsOut263#2563)

@@ -1,6 +1,5 @@
-**__Champion__**
-
-This section of the guide will help you pick a champion(s), better understand the champion(s) you play, and your role in the game. It is intended to be the foundation of which you can build a better understanding.
+**__Picking Your Champion__**
+  This section of the guide will help you pick a champion(s), better understand the champion(s) you play, and your role in the game. It is intended to be the foundation of which you can build a better understanding.
 
 **Picking Your Champions**
   Players will often ask, "should I play x, y, or z. q is strong but not in meta. I don't like w but hes meta...ect ect" and my response is always "play what you enjoy." Part of that is because at the end of the day, this is a game and you should enjoy playing it. But also you are more likely to put the time in required to learn a champion to its max if you truly enjoy playing the champion. I enjoy Wukong, so putting in 20 games of the monkey is easy. If I tried to do that with Warwick I would never make it past 3 games. League is a large time sink, that time sink isn't worth it for everyone but that's the reality of it. If you want to be good at it you need to put the time in and make sure you are making good use of the time you put in by having focus. 
@@ -32,5 +31,12 @@ Go into practice tool as your "main" champion (or look on the wiki). This can be
   This can go on and on and has endless depth so lets simplify the process. As a beginner, start with treating every death as a "mistake". This won't be true for all cases as there are "good" deaths but until you can differentiate then treat all as "bad". As a laner, go wave by wave and count the cs you missed, then write down the reason you missed it. Over the course of the game you will notice you are writing down the same or similar reasons. As a jungler, go clear by clear and write down why you chose to gank vs farm (this is the simplified version). Again these reasons will repeat and from that you have something to work from. 
 
   Now that you have played some and have written down the mistakes you made or your reasoning, its time to start correcting. Google, youtube, discord chats, ect are your friend. Coaching can begin to help at this point. Many coaches (or high elo players) are knowledgeable but don't necessarily have the teaching skills necessary to help, so by having the prepared questions and process you followed you become easy to coach / teach.  
+
+**Next Steps**
+You have picked your champion(s) and have a deeper understanding of them. Now its time to move on to learning how your champion interacts with the opponent. 
+  Matchups -> <matchups>
+
+**Extra Resources**
+  <links>
 
 (Courtesy of @LightsOut263#2563)

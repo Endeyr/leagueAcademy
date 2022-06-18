@@ -1,0 +1,33 @@
+**__Teamfighting__**
+
+This section of the guide will help you teamfight in Soloq including knowing your role and the different types of teamfighting. 
+
+**Teamfight roles:** 
+(These can go by different names or some can argue to include or exclude more or less roles but I think using this as a starter point is good enough.)
+
+  DPS ->  Maximizes damage while staying alive. Positions in the back of or on the edge of fights. 
+  Burst ->  One shot or chunks out targets that are cc’d or from fog. Positions around vision control. 
+  Peel  ->  Position next to carries. Protects from key abilities or champions.
+  Engage  ->  Looks for engage ability on key targets. Mindful of teammates being able to follow up.
+  Flanker ->  Uses fog of war to find angles onto the carries. Disrupts teams trying to fight front to back.
+  Spotter  -> Spots out enemy flankers or threats to carries. Wards or presence prevents disruption to carries
+  Zoner -> Presence applies control over priority zones. Range advantage creates pressure.
+  Splitter  -> Applies pressure across the map. Aims to join the fight with a teleport or flank 
+  Healer ->  Maximizes healing while staying safe. Prioritizes healing carries.
+
+Find the role(s) that best fit your champion and write down or think about why they fit that category and not the other ones. What characteristics make up each category and how do they fit together in a teamfight? How does your role change if you are fed / even / behind? 
+
+**Teamfight types:**
+Again the intent here is to bring awareness to these types of teamfighting and build upon them. 
+  Front to Back -> Reliant on range advantage. Usually built around hypercarry and tanks. 5v5 comps.
+
+  Pick and Burst -> Reliant on cc and burst. Aims to eliminate priority carries. Poke comps.
+
+  Flank and Engage -> Reliant on finding flank engages. Usually built around bruisers and mobility. Split comps.
+
+Write down how your champion fits into each type of teamfighting, explain how it does and doesn't fit. We will use this current understanding to compare to later on. 
+
+**Next Steps:**
+
+
+(Courtesy of @LightsOut263#2563)

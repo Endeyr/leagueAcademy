@@ -1,5 +1,6 @@
 **__Laning__**
-  The purpose of this guide is to simplify the role for new players or those new to the role. This is part of League Academy's self-paced curriculum.
+
+The purpose of this guide is to simplify the role for new players or those new to the role. This is part of League Academy's self-paced curriculum.
 
 **Terminology:** 
   Lane - refers to top or mid lane (because this is intended for beginners)

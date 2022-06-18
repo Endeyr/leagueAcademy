@@ -1,8 +1,5 @@
 **__Jungle__**
-
-**Beginner's Guide to Jungling in Soloq**
-
-The purpose of this guide is to simplify the role for new players or those new to the role. This is part of League Academy's self-paced curriculum. 
+  The purpose of this guide is to simplify the role for new players or those new to the role. This is part of League Academy's self-paced curriculum. 
 
 **Terminology:** 
   pathing - the direction of your jungle clear i.e. order you kill your camps. 
@@ -73,11 +70,14 @@ The purpose of this guide is to simplify the role for new players or those new t
 
 **Next Steps:** 
   As you learn the role YOU WILL MAKE TONS OF MISTAKES AND FALL BEHIND IN THESE GAMES. This is OK AND EXPECTED. The goal isn't to play mistake free but to make many mistakes and learn from them. Fell down 2 lvs to a Master Yi? In the op.gg, look at exactly when you started to fall behind in xp and go to that time in the vod review. Now you can see that you didn't farm any camps for 2 minutes while Yi was able to freely take his entire jungle. 
+  
   You've been doing great so far, putting the time in! but, you feel stuck. Now is the time to reflect and write down your current problems or any questions you have. THIS IS WHEN YOU ASK FOR COACHING. Ask questions about the problem, don't just ask for the solution. Know what the problem is, and ask questions that ask why or how the problem occurs. Try to break it down into simpler parts. If you still don't understand then ask for help. 
 
-**Extra Links:** 
+  Once you feel you are ready, move on to the advanced jungle guide (recommended for D+)
+  
+  Advanced Jungle Guide -> <advancedJungleGuide>
 
+**Extra Resources:** 
+  <links>
 
 (Courtesy of @LightsOut263#2563)
-
-
