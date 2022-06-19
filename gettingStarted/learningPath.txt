@@ -7,28 +7,40 @@
   This guide is not an end all be all but intended as a starting point. Not everything in the guide will be 100% agreed upon best practice but instead curated information aimed at a general new player. If you feel that something in the guide is unclear, incorrect, or you just want your opinion to be heard, please dm a staff member or fill our <insert form>. Thank you for taking the time to read this and good luck on your journey!
 
 **Directory**
-settings  -> <settings>
+  Beginner Section
 
-champion  -> <champion>
+settings  -> <settings> : Description
 
-champion mastery  -> <championMastery>
+picking your champion  -> <pickingYourChampion> : Description
 
-lane  -> <lane>
+champion mastery  -> <championMastery> : Description
 
-jungle  -> <jungle>
+lane  -> <lane> : Description
 
-adc   -> <adc>
+jungle  -> <jungle> : Description
 
-support -> <support>
+adc   -> <adc> : Description
 
-team fighting -> <teamfighting>
+support -> <support> : Description
 
-mid & late game -> <macro>
+team fighting -> <teamfighting> : Description
 
-draft -> <draft>
+training guide  -> <trainingGuide> : Description
 
-training guide  -> <trainingGuide>
+links & spreadsheets  -> <usefulLinks> : Description
 
-links & spreadsheets  -> <usefulLinks>
+  Advanced Concepts
+
+advanced laning -> <advanced_lane> : Description
+
+advanced jungle -> <advanced_jungle> : Description
+
+advanced support -> <advanced_support> : Description
+
+mid & late game -> <macro> : Description
+
+climbing guide -> <climbing> : Description
+
+  Team Concepts
 
 (Courtesy of @LightsOut263#2563)
