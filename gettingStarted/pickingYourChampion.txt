@@ -50,12 +50,17 @@ Go into practice tool as your "main" champion (or look on the wiki). This can be
 
 The above is everything that goes into a matchup (minus that pesky jungler or support roam). Going into the matchup you should know or at least have a very good idea of how your champion works in relation to that table. Then all you have to do is know the same for the opponent champion and abuse your advantages! See its super easy! Well actually there is lots of depth to concept but to help you out lets look at an example. 
 
-Eg. Darius vs Kayle ; patch 12.10
+Eg. Darius vs Kayle ; patch 12.11
 
-Insert wr + stats@15
-Insert base stats + scaling
-Insert basic combos + dmg amts
-Lv + item breakpoints
+(The data varies depending on what site you use)
+
+Darius wins ~50% of games vs Kayle at Platinum+ elo. 
+At 15m, Darius is up on average 850g and 500xp
+At 20m, Darius has a 55% wr vs Kayle but at 30m it drops to 46% wr. 
+At lv 1, Darius has 14 more base AD, 13 more base Armor, and 5 more movespeed. 
+At lv 6, Kayle gains a range advantage, at lv 11 she gains more damage, and at 16 she gains more range and perm Zealous effect (her on attack bonus).
+
+So in the context of a matchup, its very clear when Kayle starts to get to her levels and items as the game goes on that she starts to win vs Darius. Therefore in this matchup, Kayle needs to play for post 25m for the best chance to win, that means losing lane gracefully. Meanwhile Darius needs to gain and push his advantage to close out the game before Kayle is strong. 
 
 **Misplay vs Misinformed:**
   Misplay -> Mechanical. 
@@ -70,14 +75,8 @@ Another tip is if you aren't sure you can 1v1 someone, check level > items > res
 Once you know your champion and have an idea of how the other champion wants to play, it's time to develop a gameplan. Create a gameplan for how to play if you are ahead, even, and behind. Make one for if you get camped by the jungler or if your jungler camps for you. Preparing for these situations ahead of time allows you to not panic in game as well as have a frame of reference for reviewing your gameplay. After the game you can compare how the game went with your plan. If you are stuck after that then it makes it 100x easier on a coach to help you because you will know exactly what you are asking for help on as well as have a game to support it and before / after information. 
 
 **Next Steps:**
-  Now that you have an understanding of your champion(s) and matchups, its time to pick your next path. While I think it's helpful for everyone to start with the lane path, if you are not a top or mid you can go to your designated section. 
+  Now that you have an understanding of your champion(s) and matchups, it's time to learn how to lane.
 
-  Top + Mid Laners -> <lane>
-  Junglers -> <jungle>
-  ADC -> <adc>
-  Support -> <support>
-
-**Extra Resources**
-  <links>
+  Lane -> <lane>
 
 (Courtesy of @LightsOut263#2563)

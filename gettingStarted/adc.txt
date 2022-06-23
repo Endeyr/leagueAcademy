@@ -6,8 +6,6 @@
   duo - the adc and support in the bot lane
   push to river - killing minions waves until you are perpendicular to the river ie middle of the map. 
 
-**General Info:**
-
 **Intro:**
   A solid starting point for the adc role is to know what you actually need to do in the game, Damage! Well kinda, while there are more utility focused adcs (or mages in the bot lane) such as Ashe, at the beginner level it is best to focus primarily on how to actually deal big damage in the role. Your main tools for dealing damage will be gold income and positioning. Without enough gold you will tickle more than do damage, and without good positioning you either will be dead or not in range to do anything. 
 
@@ -59,14 +57,24 @@
   
 **Assignments:**
   Farming
+    1) Load into practice tool as the champion you want to practice on. Run bot lane and start farming, only last hitting. Your goal is to beat your best cs at 5m. Repeat this till you can consistently hit 44cs. 
+
+    2) Load into practice tool vs intermediate Lux bot. Repeat step 1 vs the Lux bot but do not damage or trade back with her, only focus on farming. Repeat till you can consistently hit 44cs (this will not be easy).
+
+    3) Repeat step 2 but without items. 
+
+  Mechanics
+    Watch this video about aimlabs <https://youtu.be/b61zro5bKKY?t=35>. While not a 1:1 comparison for league, I think the underlying concept holds true. You want your mouse to be precise first then work on getting faster. Slow down your mouse movement and focus on the intent behind each click. For example, go into practice tool as ezreal and place an enemey dummy. You are almost guaranteed to hit the dummy! This is because you took things slow, lined up the shot, and the dummy doesn't move. Now complete the following: 
+
+    In practice tool as ezreal, set up the dummies in the river like so <insert-image>. Turn on refresh cooldown and mana and slowly hit each dummy with a q from top to bottom then reverse. Count how many times you can hit in a row until you miss. To get very technical with this you can time yourself and set metrics like hitting 20 qs in 30s. Repeat this and try to beat your best score. Once you feel comfortable you can add in moving your champion between qs or using your other abilities / add in combos. 
+
+    Another exercise you can do with a buddy is Mundo dodgeball. Here is an example <https://youtu.be/SKv3l4J-6jA> of how to set up. Use the same concepts as the ezreal training to make sure your actions are deliberate and controlled. 
 
   Positioning
-
-  Trading
+    Download your own vods and compare your positioning to the trade triangle explained here <https://youtu.be/DqCyycaiGH8?t=59>. Compare how you position relative to the wave and your teammates and how you can position better. Are you taking too much poke while farming? Are you missing opportunities to trade while farming? The list goes on but each area has opportunity for improvement. 
 
   Teamfighting
-
-**Extra Work:**
+    Combine what you now know about positioning and mechanics. Now lets take this knowledge to aram (try to reroll for an adc or ranged champion). In the games, focus on standing on the edges of fights where you can consistently deal damage, make note of where the threats are positioned, and make each skill shot you use precise. Repeating these steps will build strong habits so when you encounter these situations in soloq teamfights you will be able to act without thinking. It sounds crazy but you can actually review aram games to see how you played out each teamfight. This has the benefit of faster games, more focused practice, and lost of fighting!
 
 **Next Steps**
   advanced adc -> <advanced_adc>
