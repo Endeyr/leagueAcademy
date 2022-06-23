@@ -1,28 +1,29 @@
 **__Settings__**
   Optimized League settings
 
-video:
+Video:
   no lock screen - use the spacebar / toggle
   change graphics to medium or low
   turn off shadows, anti-aliasing, character inking
   cap fps to 144
 
-hotkeys -
+Hotkeys -
   use quickcast w or w/o indicators (without is better)
-  bind auto attack move to left click (you will get used to it) or use a click
+  bind auto attack move to left click (you will get used to it) or use A click
   use self-cast and level up ability hot keys
+  move trinket to t key, set items to 1..6
 
-interface - 
+Interface - 
   show all combat text
   disable show summoner names
   turn on show spell cost
   turn off all + ally chat
 
-game - gameplay
+Game - gameplay
   turn on movement prediction
   turn on atk move on cursor
 
-persistent settings (helpful if you have multiple accounts)
+Persistent settings (helpful if you have multiple accounts)
   Log on to any account, play a game and change settings to what you would like them to be forever.
   Go to your League of Legends folder -> Config folder -> tick the file "Persisted Settings. json" as "read-only."  
 

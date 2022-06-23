@@ -9,23 +9,23 @@
 **Directory**
   Beginner Section
 
-settings  -> <settings> : Description
+settings  -> <settings> : Recommended settings for the game.
 
-picking your champion  -> <pickingYourChampion> : Description
+picking your champion  -> <pickingYourChampion> : How to pick a champion and view matchups. 
 
-lane  -> <lane> : Description
+lane  -> <lane> : How to lane.
 
-jungle  -> <jungle> : Description
+jungle  -> <jungle> : How to jungle.
 
-adc   -> <adc> : Description
+adc   -> <adc> : How to adc.
 
-support -> <support> : Description
+support -> <support> : How to support.
 
-team fighting -> <team-fighting> : Description
+team fighting -> <team-fighting> : How to team fight.
 
-training guide  -> <trainingGuide> : Description
+training guide  -> <trainingGuide> : How to train.
 
-links & spreadsheets  -> <usefulLinks> : Description
+links & spreadsheets  -> <links-and-spreadsheets> : Useful links and spreadsheets.
 
   Advanced Guides
 
