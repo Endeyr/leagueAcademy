@@ -1,35 +1,42 @@
 **__Support__**
 
-
 The purpose of this guide is to simplify the role for new players or those new to the role. This is part of League Academy's self-paced curriculum. 
 
 **Terminology:**
-ADC
-cc
+  ADC
+  cc
 
-**General Info**
-Melee supports should look to finish their first support item upgrade around the 10 minute mark
-Ranged supports should look to finish their first support item upgrade around the 8 minute mark
-Totem Wards/Yellow Trinket Wards last between 90 and 120 seconds depending on level and grant 10 gold and 37xp when destroyed
-Control Wards are permanent but cost 75 gold to purchase and grant 30 gold and 37xp when destroyed
-Stealth Wards (wards from support item) last 150 seconds and grant 30 gold and 37xp when destroyed
-Switch your trinket to sweeper once you have your first upgrade in the support item
+**General Info:**
+  Melee supports should look to finish their first support item upgrade around the 10 minute mark
+  Ranged supports should look to finish their first support item upgrade around the 8 minute mark
+  Totem Wards/Yellow Trinket Wards last between 90 and 120 seconds depending on level and grant 10 gold and 37xp when destroyed
+  Control Wards are permanent but cost 75 gold to purchase and grant 30 gold and 37xp when destroyed
+  Stealth Wards (wards from support item) last 150 seconds and grant 30 gold and 37xp when destroyed
+  Switch your trinket to sweeper once you have your first upgrade in the support item
 
 
 
-Laning Phase:
-The job of a support is to help your ADC get a lead throughout the early/mid game, and to set up vision for your team around the map. 
+**Laning Phase:**
+  The job of a support is to help your ADC get a lead throughout the early/mid game, and to set up vision for your team around the map. 
 
-Support champions can be categorized into three main categories: Engage, Enchanters, or Poke
+  Support champions can be categorized into three main categories: Engage, Enchanters, or Poke
 
 Laning Phase(0min till roughly 15min)
-Engage: generally categorized as champs that want to starts all in fights due to them having cc (example: Nautilus, Leona). You want to use the brushes to your advantage, as it makes it much harder for the enemy to predict what you will do. As the engage support, it is your job to start fights.
-Enchanter: champs who's primary job is to shield/heal (example: Lulu, Nami). As an enchanter you want to look for chances to auto attack the enemy and use your healing/shielding on the champion that will get targeted during fights.
-Poke: champs with long range who look to bully the enemy adc/supp out of lane (example: Lux, Xerath)
+  Engage: generally categorized as champs that want to starts all in fights due to them having cc (example: Nautilus, Leona). You want to use the brushes to your advantage, as it makes it much harder for the enemy to predict what you will do. As the engage support, it is your job to start fights.
+
+  Enchanter: champs who's primary job is to shield/heal (example: Lulu, Nami). As an enchanter you want to look for chances to auto attack the enemy and use your healing/shielding on the champion that will get targeted during fights.
+
+  Poke: champs with long range who look to bully the enemy adc/supp out of lane (example: Lux, Xerath)
 
 
 ADD SECTION ON PLAY PARALLEL TO ADC AND HOW TO LOOK FOR FIGHTS/ALL INS
 
 ADD SECTION ON WARDING AND MID/LATE GAME
   
+**Assignments:**
 
+**Extra Work:**
+
+**Next Steps:**
+
+(Courtesy of @BewBew#7790)

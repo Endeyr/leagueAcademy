@@ -46,6 +46,20 @@
 3b) Adapt: 
   As the game progresses, check in with your plan. If you are behind as Talon your game plan may switch from trying to pick someone out to peeling for your fed adc. Your plan to stack dragons might change to getting both heralds as your bot lane dies on repeat. Play to your strong lanes and players and enable your team to snowball. If you have a top Fiora that's 4-0, play around her so she doesn't lose her bounty. The gold the enemy team gains from the bounty is worth more than the camps you took on your bot side. 
 
+**Champion Identity:**
+  As you learned in <championMaster>, it is important to play towards your champions strengths and understand their weaknesses. This section will be a short introduction to 3 types of junglers and their role in the game. This will be further expanded in <teamfighting>. 
+
+    1) Gankers:
+        Junglers such as Jarvan that excel in applying pressure to lanes through cc or gap close and are usually slower in their clear. Typically looking to out pressure the enemy jungler.
+
+    2) Farmers:
+        Junglers such as Karthus that excel in clearing jungle camps quickly. Typically looking to efficiently clear and build a xp lead.
+
+    3) Duelist:
+        Junglers such as Xin Zhao that excel in fighting 1v1. Typically looking to pressure the enemy jungler by invading or fighting over neutral objectives such as crab or dragon. 
+
+  Knowing how your champion fits into their role will help you gameplan. Also some champions fit into multiple roles or their role changes depending on the other champions in the game. For example if you are a duelist jungler but lose 1v1 against the enemy jungler, you may need to focus more on ganking or farming. 
+
 **Assignments:** 
   These are self-guided assignments to help you better understand the role. They will take weeks if not months or years to learn and master. It's also good to revisit them as a refresher. 
   
@@ -73,11 +87,13 @@
   
   You've been doing great so far, putting the time in! but, you feel stuck. Now is the time to reflect and write down your current problems or any questions you have. THIS IS WHEN YOU ASK FOR COACHING. Ask questions about the problem, don't just ask for the solution. Know what the problem is, and ask questions that ask why or how the problem occurs. Try to break it down into simpler parts. If you still don't understand then ask for help. 
 
-  Once you feel you are ready, move on to the advanced jungle guide (recommended for D+)
+  Once you feel you are ready, move on to the advanced jungle guide (recommended for D+) or the teamfighting guide.
   
   Advanced Jungle Guide -> <advancedJungleGuide>
 
-**Extra Resources:** 
+  Teamfights -> <teamfighting>
+
+**Extra Resources:**
   <links>
 
 (Courtesy of @LightsOut263#2563)

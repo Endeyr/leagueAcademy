@@ -2,31 +2,79 @@
   The purpose of this guide is to teach you the basic fundamentals of playing adc. Following this will develop a solid foundation for you to improve. This guide is intended for newer players to the role so I will attempt to simplify concepts to the best of my ability. 
 
 **Terminology:**
+  effective range - the range of your auto attacks and/or abilities
+  duo - the adc and support in the bot lane
+  push to river - killing minions waves until you are perpendicular to the river ie middle of the map. 
 
 **General Info:**
 
 **Intro:**
   A solid starting point for the adc role is to know what you actually need to do in the game, Damage! Well kinda, while there are more utility focused adcs (or mages in the bot lane) such as Ashe, at the beginner level it is best to focus primarily on how to actually deal big damage in the role. Your main tools for dealing damage will be gold income and positioning. Without enough gold you will tickle more than do damage, and without good positioning you either will be dead or not in range to do anything. 
 
+  Also while starting out as adc, save your flash for defensive plays. It is very important as adc to deal damage in fights, and many times if you don't have flash for a fight it becomes increasingly difficult to find openings to deal damage. With that in mind, avoid aggressively flashes until you are confident you won't need the flash for a fight (like baron or dragon) while its on cooldown. This is generic advice and just a solid starting point. 
+
 **Farming**
   First 15m: 
+    Focus should be on last hitting minions while avoiding damage. Eventually you will start working on punishing the enemy adc or support but you first need a solid foundation of farming. 
+    
+    To farm well pay attention to what minions your minions are attacking and how low they are getting. Then once a minion is low enough ie below your auto attack damage, you kill it. Stay near max range of your auto attacks while farming as it's good practice for learning positioning. 
 
+    Your goal is to get every minion and then recall once you have enough gold to buy an item (typically 1300g for first back). 
 
   Post Laning:
+    Once laning is over (usually post 15m or once towers start falling) your focus becomes farming without dying. It is important to keep up your gold income after lane while also being at fights. A good rule of thumb is to farm waves as they come into your side towers then push to river before walking back mid. If you don't have any vision to push to river than go as far are you can safely before backing off. The patter is catch mid wave, walk to catch side wave, push to river, reset or walk back to mid wave. Take the safest route possible when walking between lanes and farm any jungle camps you can reasonably take without losing waves to tower. 
 
-**Positioning**
+    Post laning is where great adcs go from 8cs/m to 10 or 11 cs/m by following the above pattern. 
+
+    It is also important for you to be at fights, even if you are slightly late. If you are farming a side wave and see your team positing aggressively mid lane then you can't always push to river, its better to walk to the potential fight because you are the main damage dealer. 
+
+**Positioning** <need to insert pictures>
   In Lane -
+    Positioning in lane is highly dependent on 3 factors; your effective range as a duo, the enemy's effective range as a duo, and the direction the wave is pushing. If your duo outranged the enemy duo, you can position same side as the enemy adc to apply pressure as they farm. If your duo is outranged, you want to position across for their adc so they have a harder time pressuring you as you farm. If even range you can position same side. 
+
+    To start out, just focus on positioning on the correct side of the lane while farming. Don't worry about punishing yet until you are able to farm around 8cs/m. The reason for this is you need to be able to farm before you start incorporating strategies on farm denial or effective trading. 
 
   In Fights -
+    Positioning in fights is key to dealing damage. Position according to your effective range, your team's effective range, and the enemy's effective range. This will be covered more in-depth in <teamfighting> so to simplify things, your default position should be where you can damage the closest enemy to you. As you learn and improve you can start to make decisions on which enemy you can safely ignore such as a tank who's abilities are on cd, but for now just assume everyone is a threat and safely hit who is in front of you. 
 
 **Trading**
+  Once you are farming at a high level and positioning correctly, it is time to start looking for winning trades. If you understand farming and positioning, the trades should start becoming easy for you to spot out, its just punishing bad farming techniques or bad positioning! 
+
+  For example, lets say you are Caitlyn vs Kaisa. You position yourself across from her because you have higher auto range and in the downtime between farming your own minions, you look to auto her as she last hit her minions. That's all trading is, punishing mistakes to build a lead! 
+
+  While learning how to trade, you will make many mistakes and die alot. This is expected and where you can start improving. Review each trade and ask yourself; Why did I take this trade? Was I positioned properly? Did I lose anything to take the trade? Why did the trade go well or poorly? Did I need to trade or was there a better opportunity? The list of questions can go on and on but each one will lead you to an answer or if you get stuck that's when you can ask a coach to review with you. 
+
+**Champion Identity:**
+  For the sake of simplicity, lets categories adcs. 
+    1) DPS Carry: 
+        Adcs such as Jinx that excel in dealing damage first and foremost. Typcially play front to back in teamfights. 
+
+    2) Utility: 
+        Adcs such as Ashe that excel in setting up fights first then looking to deal damage. Typically play front to back in teamfights. 
+
+    3) Scrapper: 
+        Adcs such as Kaisa that excel in short or isolated fights. Typically look for flanks or skirmishes over front to back fights. 
+
+  Knowing how your champion fits into their role will help you gameplan. Also some champions fit into multiple roles or their role changes depending on the other champions in the game. For example if you are playing Lucian into Vayne you may not be able to fight front to back but instead look for flanks or skirmishes. 
   
 **Assignments:**
+  Farming
+
+  Positioning
+
+  Trading
+
+  Teamfighting
 
 **Extra Work:**
 
 **Next Steps**
+  advanced adc -> <advanced_adc>
+  teamfighting -> <teamfighting>
 
 **Extra Resources**
+
+Marksman: How to Consume 
+  <https://medium.com/@bendemunck/marksman-how-to-consume-87f55111163d>
 
 (Courtesy of @LightsOut263#2563)

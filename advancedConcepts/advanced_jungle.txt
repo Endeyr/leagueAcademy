@@ -10,7 +10,7 @@ stealing objectives
 advanced team fighting
 knowing champion identity 
 winning / losing lanes
-jungle matchups (Farm vs Gank)
+gank theory + jungle matchups (Farm vs Gank)
 teamcomp + builds (How your comp changes your build)
 strongside vs weakside based on matchups 
 strongside vs weakside based on gamestate 
