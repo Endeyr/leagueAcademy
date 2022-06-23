@@ -9,9 +9,7 @@
 **Directory**
 settings  -> <settings>
 
-champion  -> <champion>
-
-champion mastery  -> <championMastery>
+picking your champion  -> <picking-your-champion>
 
 lane  -> <lane>
 
@@ -21,14 +19,22 @@ adc   -> <adc>
 
 support -> <support>
 
-team fighting -> <teamfighting>
-
-mid & late game -> <macro>
-
-draft -> <draft>
+team fighting -> <team-fighting>
 
 training guide  -> <trainingGuide>
 
 links & spreadsheets  -> <usefulLinks>
+
+Advanced Guides
+
+adv jungle -> <adv-jungle>
+
+adv laning -> <adv-laning>
+
+adv support -> <adv-support>
+
+mid & late game -> <macro>
+
+climbing soloq -> <climbing-soloq>
 
 (Courtesy of @LightsOut263#2563)

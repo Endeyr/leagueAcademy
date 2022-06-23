@@ -1,22 +1,22 @@
 **__Picking Your Champion__**
   This section of the guide will help you pick a champion(s), better understand the champion(s) you play, and your role in the game. It is intended to be the foundation of which you can build a better understanding.
 
-**Picking Your Champions**
+**Who to Play?**
   Players will often ask, "should I play x, y, or z. q is strong but not in meta. I don't like w but hes meta...ect ect" and my response is always "play what you enjoy." Part of that is because at the end of the day, this is a game and you should enjoy playing it. But also you are more likely to put the time in required to learn a champion to its max if you truly enjoy playing the champion. I enjoy Wukong, so putting in 20 games of the monkey is easy. If I tried to do that with Warwick I would never make it past 3 games. League is a large time sink, that time sink isn't worth it for everyone but that's the reality of it. If you want to be good at it you need to put the time in and make sure you are making good use of the time you put in by having focus. 
 
   If you still aren't sure what to play or where to start then look at the most played champions on <u.gg> or your preferred league site. Win rate here doesn't matter much, sort by play rate, and make a list of each champion from the top 10 most played that you think you'd enjoy, and what you like about them. Now cut this list down to 6 and write down what you don't like about the remaining. Now cut down to how many champions you plan to play or would like to learn. Remember its easier and faster to learn 1 champion at a time than trying to learn multiple champions. 
 
-**know your champion:**
-  passive
-  ability
-  ability order
-  ability power spikes
-  combos
-  core runes
-  situational runes
-  core items
-  situational items
-  item buy timings
+**Know Your Champion:**
+  Passive
+  Ability
+  Ability order
+  Ability power spikes
+  Combos
+  Core runes
+  Situational runes
+  Core items
+  Situational items
+  Item buy timings
 
 Go into practice tool as your "main" champion (or look on the wiki). This can be one you play the most, one you want to learn, ect. Actually read your passive. Think about and understand what it does. Read each ability in the same way. Note the base damages, the ratios, the damage type, cooldown, mana cost, ect. You'd be surprised how little people know about the champion they play. 
 
@@ -28,13 +28,54 @@ Go into practice tool as your "main" champion (or look on the wiki). This can be
 
   The goal of these games will be to make as many mistakes as possible. That doesn't mean intentionally doing things that you know are wrong but to try out acts or concepts you aren't sure will work but have a solid foundation in your fundamentals knowledge. If this still isn't clear lets go through an example: 
     You are learning Ahri and playing vs Veigar. You think Ahri out trades Veigar early so you take aggressive trades in lane but then get hit by a cage at lv 6 and die. Now in the review you can come to a few conclusions: 1) You may need cleanse in the matchup to avoid the cc. Champions like Veigar, Lux, ect rely on locking you down to burst. 2) You may need to change your runes / itemization for the matchup. Dorans ring vs Corrupting Pot, early merc treds, ect are all things you can adjust. 3) Your assumptions about winning trades is incorrect. Look up the matchup on youtube and watch how they played the matchup vs how you did. What did they do differently / the same and can you incorporate. 
+
   This can go on and on and has endless depth so lets simplify the process. As a beginner, start with treating every death as a "mistake". This won't be true for all cases as there are "good" deaths but until you can differentiate then treat all as "bad". As a laner, go wave by wave and count the cs you missed, then write down the reason you missed it. Over the course of the game you will notice you are writing down the same or similar reasons. As a jungler, go clear by clear and write down why you chose to gank vs farm (this is the simplified version). Again these reasons will repeat and from that you have something to work from. 
 
   Now that you have played some and have written down the mistakes you made or your reasoning, its time to start correcting. Google, youtube, discord chats, ect are your friend. Coaching can begin to help at this point. Many coaches (or high elo players) are knowledgeable but don't necessarily have the teaching skills necessary to help, so by having the prepared questions and process you followed you become easy to coach / teach.  
 
-**Next Steps**
-You have picked your champion(s) and have a deeper understanding of them. Now its time to move on to learning how your champion interacts with the opponent. 
-  Matchups -> <matchups>
+**Matchups**
+  When exploring a matchup, break it down into its simplest parts. You are taking what was talked about in the Champion section and applying to to both sides (in the case of bot lane, 4 sides). This won't go in depth on matchup specifics (there are too many for anyone to know everything about) but instead aim to be the foundation (like many other parts of the guide if you sense a theme) for your improvement. First lets break it down. 
+
+**Matchup Breakdown:**
+  Base stats (effective health / dmg)
+  Atk range 
+  Atk spd 
+  Abilities 
+  Skill range 
+  Cds (basic combos)
+  Resources (health / mana)
+  Summoner spells
+  Items 
+  Runes 
+
+The above is everything that goes into a matchup (minus that pesky jungler or support roam). Going into the matchup you should know or at least have a very good idea of how your champion works in relation to that table. Then all you have to do is know the same for the opponent champion and abuse your advantages! See its super easy! Well actually there is lots of depth to concept but to help you out lets look at an example. 
+
+Eg. Darius vs Kayle ; patch 12.10
+
+Insert wr + stats@15
+Insert base stats + scaling
+Insert basic combos + dmg amts
+Lv + item breakpoints
+
+**Misplay vs Misinformed:**
+  Misplay -> Mechanical. 
+
+  Misinformed -> Incorrect assumptions, lack of knowledge, lack of understanding, missing or incorrect technical knowledge. 
+
+This distinction tells you helps you find direction when correcting mistakes. If you lost a 1v1 vs a Riven, knowing it was a misplay means you need to practice your mechanics more while if you were misinformed then it means there is something about the matchup, or Riven, or your champion that you don't understand and you need to do more research into the topic. 
+
+Another tip is if you aren't sure you can 1v1 someone, check level > items > resources. Most champs can't win 1v1 if down in levels or items. 
+
+**Gameplan:** 
+Once you know your champion and have an idea of how the other champion wants to play, it's time to develop a gameplan. Create a gameplan for how to play if you are ahead, even, and behind. Make one for if you get camped by the jungler or if your jungler camps for you. Preparing for these situations ahead of time allows you to not panic in game as well as have a frame of reference for reviewing your gameplay. After the game you can compare how the game went with your plan. If you are stuck after that then it makes it 100x easier on a coach to help you because you will know exactly what you are asking for help on as well as have a game to support it and before / after information. 
+
+**Next Steps:**
+  Now that you have an understanding of your champion(s) and matchups, its time to pick your next path. While I think it's helpful for everyone to start with the lane path, if you are not a top or mid you can go to your designated section. 
+
+  Top + Mid Laners -> <lane>
+  Junglers -> <jungle>
+  ADC -> <adc>
+  Support -> <support>
 
 **Extra Resources**
   <links>
