@@ -64,7 +64,7 @@
     3) Repeat step 2 but without items. 
 
   Mechanics
-    Watch this video about aimlabs <https://youtu.be/b61zro5bKKY?t=35>. While not a 1:1 comparison for league, I think the underlying concept holds true. You want your mouse to be precise first then work on getting faster. Slow down your mouse movement and focus on the intent behind each click. For example, go into practice tool as ezreal and place an enemey dummy. You are almost guaranteed to hit the dummy! This is because you took things slow, lined up the shot, and the dummy doesn't move. Now complete the following: 
+    Watch this video about aimlabs <https://youtu.be/b61zro5bKKY?t=35>. While not a 1:1 comparison for league, I think the underlying concept holds true. You want your mouse to be precise first then work on getting faster. Slow down your mouse movement and focus on the intent behind each click. For example, go into practice tool as ezreal and place an enemy dummy. You are almost guaranteed to hit the dummy! This is because you took things slow, lined up the shot, and the dummy doesn't move. Now complete the following: 
 
     In practice tool as ezreal, set up the dummies in the river like so <insert-image>. Turn on refresh cooldown and mana and slowly hit each dummy with a q from top to bottom then reverse. Count how many times you can hit in a row until you miss. To get very technical with this you can time yourself and set metrics like hitting 20 qs in 30s. Repeat this and try to beat your best score. Once you feel comfortable you can add in moving your champion between qs or using your other abilities / add in combos. 
 

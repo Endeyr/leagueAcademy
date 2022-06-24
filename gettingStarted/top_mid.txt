@@ -1,24 +1,75 @@
 **__Top & Mid Lane__**
+  The purpose of this guide is to teach you the basic fundamentals of playing top and mid. Following this will develop a solid foundation for you to improve. This guide is intended for newer players to the role so I will attempt to simplify concepts to the best of my ability.
+
+  I'm combining top and mid here because they are very similar until high elo. 
 
 **Terminology:**
+  Effective Range - the range of your auto attacks and/or abilities
+  Push to River - killing minions waves until you are perpendicular to the river ie middle of the map. 
 
 **Intro:**
+  This guide will assume you read and worked through <lane> and thus build upon those fundamentals.  As a player, you need to focus first on your farming, then positioning, then trading. Once you can consistently get out of lane then you can start playing towards your champion identity more effectively. 
 
 **Farming**
+  Focus should be on last hitting minions while avoiding damage. Eventually you will start working on punishing the enemy adc or support but you first need a solid foundation of farming. 
+    
+  To farm well pay attention to what minions your minions are attacking and how low they are getting. Then once a minion is low enough ie below your auto attack damage, you kill it. Stay near max range of your auto attacks while farming as it's good practice for learning positioning. 
+
+  Your goal is to get every minion and then recall once you have enough gold to buy an item (typically 1300g for first back).
 
 **Positioning**
+  Your goal as positioning should be to put yourself in the best position to get farm while avoiding damage and punish your opponent for farming. In top lane you have the added benefit of having bushes to play around and drop minion aggro. Mid lane you should be aware of where both junglers are as you will start to take their positions on the map into account (this is a more advanced concept). 
+
+  For starting off, there are two default positions. Same side and diagonal. Usually the champion that has longer effective range (or stronger at similar range) will try to stand on the same side as their opponent while the shorter effective range (or weaker) tries to stand opposite (diagonal). The reason for this is simple, minion aggro on auto trades. If you are in a weaker position, you want to leverage the minions to help you win trades. This is also why having large minion waves will protect you from fights or ganks. 
 
 **Trading**
+  Once you are farming at a high level and positioning correctly, it is time to start looking for winning trades. If you understand farming and positioning, the trades should start becoming easy for you to spot out, its just punishing bad farming techniques or bad positioning! 
+
+  For example, lets say you are Ahri vs Ekko. You position yourself across from him because you have higher auto range and in the downtime between farming your own minions, you look to auto him as he last hit his minions. That's all trading is, punishing mistakes to build a lead! 
+
+  While learning how to trade, you will make many mistakes and die alot. This is expected and where you can start improving. Review each trade and ask yourself; Why did I take this trade? Was I positioned properly? Did I lose anything to take the trade? Why did the trade go well or poorly? Did I need to trade or was there a better opportunity? The list of questions can go on and on but each one will lead you to an answer or if you get stuck that's when you can ask a coach to review with you. 
 
 **Champion Identity:**
+  Top and Mid lane have a large variety of champions. For simplicity lets create a few categories. 
+    1) Dps Carry:
+        Champions such as Cassiopeia that excel in dealing damage first and foremost. Typcially play front to back in teamfights.
+
+    2) Bruiser: 
+        Champions such as Irelia that excel in skirmishes. Typically look for flanks in teamfights. 
+
+    3) Tanks: 
+        Champions such as Ornn that excel in absorbing damage. Typically look to play in front of their carries in teamfights. 
+
+  Knowing how your champion fits into their role will help you gameplan. Also some champions fit into multiple roles or their role changes depending on the other champions in the game. For example if you are playing Cassio into Xerath you may not be able to fight front to back but instead look for flanks or skirmishes. 
 
 **Assignments:**
+  Farming
+    1) Load into practice tool as the champion you want to practice on. Run mid lane and start farming, only last hitting. Your goal is to beat your best cs at 5m. Repeat this till you can consistently hit 50cs. 
+
+    2) Load into practice tool vs 3 intermediate bots, Brand, Lux, and Xerath (this is to ensure one of them goes mid). Repeat step 1 vs the bot but do not damage or trade back with them, only focus on farming. Repeat till you can consistently hit 50cs (this will not be easy).
+
+    3) Repeat step 2 but without items. 
+
+  Mechanics
+    Watch this video about aimlabs <https://youtu.be/b61zro5bKKY?t=35>. While not a 1:1 comparison for league, I think the underlying concept holds true. You want your mouse to be precise first then work on getting faster. Slow down your mouse movement and focus on the intent behind each click. For example, go into practice tool as ezreal and place an enemy dummy. You are almost guaranteed to hit the dummy! This is because you took things slow, lined up the shot, and the dummy doesn't move. Now complete the following: 
+
+    In practice tool as ezreal, set up the dummies in the river like so <insert-image>. Turn on refresh cooldown and mana and slowly hit each dummy with a q from top to bottom then reverse. Count how many times you can hit in a row until you miss. To get very technical with this you can time yourself and set metrics like hitting 20 qs in 30s. Repeat this and try to beat your best score. Once you feel comfortable you can add in moving your champion between qs or using your other abilities / add in combos. 
+
+    Another exercise you can do with a buddy is Mundo dodgeball. Here is an example <https://youtu.be/SKv3l4J-6jA> of how to set up. Use the same concepts as the ezreal training to make sure your actions are deliberate and controlled. 
+
+  Teamfighting
+    Combine what you now know about positioning and mechanics. Now lets take this knowledge to aram. 
+    
+    As a dps, focus on standing on the edges of fights where you can consistently deal damage, make note of where the threats are positioned, and make each skill shot you use precise. 
+    
+    As a bruiser / tank, focus on positioning in front of your dps, between their threats. Then play to your champions identity, either peeling for your dps, engaging on their dps, zoning, ect depending on what you can do. 
+    
+    Repeating these steps will build strong habits so when you encounter these situations in soloq teamfights you will be able to act without thinking. It sounds crazy but you can actually review aram games to see how you played out each teamfight. This has the benefit of faster games, more focused practice, and lost of fighting!
 
 **Next Steps**
-  advanced laning -> <advanced_laning>
-  teamfighting -> <teamfighting>
+  Teamfighting -> <teamfighting>
+  Advanced Laning -> <advanced_laning>
 
 **Extra Resources**
-
 
 (Courtesy of @LightsOut263#2563)
