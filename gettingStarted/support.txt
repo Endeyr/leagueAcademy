@@ -32,11 +32,24 @@ Laning Phase(0min till roughly 15min)
 ADD SECTION ON PLAY PARALLEL TO ADC AND HOW TO LOOK FOR FIGHTS/ALL INS
 
 ADD SECTION ON WARDING AND MID/LATE GAME
+**Warding**
+AARON ADD A LINK TO PAGE 9+ OF MASTER COACHING DOC
+
+**Mid/Late Game:**
+Engage: You can either look to save your crowd control to stop the enemies from hitting your carries, or look to use your crowd control to interrupt the enemy carries
+
+Enchanter: Try to play next to/near your adc and use your heals/shields to keep them alive. Take care to not get engaged on by enemy frontline.
+
+Poke: play on the backline and use your range to try and poke the enemy backline. Take care to not get engaged on by enemy frontline.
   
 **Assignments:**
+Warding practice: https://www.youtube.com/watch?v=e0khyGzpDd0
+
+2v2 practice: Great way to practice auto spacing
 
 **Extra Work:**
 
 **Next Steps:**
+Continue onto the teamfighting guide or the advanced support guide for more learning!
 
-(Courtesy of @BewBew#7790)
+(Courtesy of @BewBew#7790 and @LightsOut263#2563)
