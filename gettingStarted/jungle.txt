@@ -89,11 +89,7 @@
 
   Once you feel you are ready, move on to the advanced jungle guide (recommended for D+) or the teamfighting guide.
   
-  Advanced Jungle Guide -> <advancedJungleGuide>
-
+  Advanced Jungle -> <adv_jungle>
   Teamfights -> <teamfighting>
-
-**Extra Resources:**
-  <links>
 
 (Courtesy of @LightsOut263#2563)

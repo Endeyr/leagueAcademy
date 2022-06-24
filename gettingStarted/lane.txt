@@ -59,43 +59,18 @@
   **Warding & Jungle Tracking**
       To keep this section simple, look for wards after you crash a wave into the enemy tower. Ward the side that your jungler ISN'T on or if you have info on the enemy jungler then put it where he is likely to go. Most issues with being ganked come from pushing as the jungler is pathing towards your lane. 
 
-
-**Assignments:**
-  Gameplan
-    Build a gameplan centered around farming + trading strategies 
-    Build a gameplan centered around wave manipulation
-
-  CS practice
-    free farming 
-    vs lux bot
-
-  1v1s
-    farming
-    trading
-
-  Mouse Accuracy
-    Improve mouse accuracy ie precision
-
-  Reaction time
-    Improve reaction time 
-
-  Minimap Awareness
-    Look at mini map between farming
-
-**Extra Work:**
-
-
 **Next Steps**
   As you learn the role YOU WILL MAKE TONS OF MISTAKES AND FALL BEHIND IN THESE GAMES. This is OK AND EXPECTED. The goal isn't to play mistake free but to make many mistakes and learn from them. Fell down 2 lvs to a Yone? In the op.gg, look at exactly when you started to fall behind in xp and go to that time in the vod review. Now you can see that you failed a roam bot lane and lost 4 waves and 2 tower plates mid lane. 
   
   You've been doing great so far, putting the time in! but, you feel stuck. Now is the time to reflect and write down your current problems or any questions you have. THIS IS WHEN YOU ASK FOR COACHING. Ask questions about the problem, don't just ask for the solution. Know what the problem is, and ask questions that ask why or how the problem occurs. Try to break it down into simpler parts. If you still don't understand then ask for help. 
 
-  Once you feel ready, move on to the advanced lane guide (recommended for D+) or your respective role guide. 
+  Once you feel ready, move on to your respective role guide. 
   
-  Advanced Lane Guide -> <advancedLaneGuide>
+  Top + Mid -> <top_mid>
   Junglers -> <jungle>
   ADC -> <adc>
   Support -> <support>
+  Advanced Lane Guide -> <advancedLaneGuide>
 
 **Extra Resources**
   <links>

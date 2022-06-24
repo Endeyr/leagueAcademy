@@ -9,38 +9,39 @@
 **Directory**
   Beginner Section
 
-settings  -> <settings> : Description
+settings  -> <settings> : Recommended settings for the game.
 
-picking your champion  -> <pickingYourChampion> : Description
+picking your champion  -> <pickingYourChampion> : How to pick a champion and view matchups. 
 
-champion mastery  -> <championMastery> : Description
+lane  -> <lane> : How to lane.
 
-lane  -> <lane> : Description
+top & mid -> <top_mid> : How to top & mid.
 
-jungle  -> <jungle> : Description
+jungle  -> <jungle> : How to jungle.
 
-adc   -> <adc> : Description
+adc   -> <adc> : How to adc.
 
-support -> <support> : Description
+support -> <support> : How to support.
 
-team fighting -> <teamfighting> : Description
+team fighting -> <team-fighting> : How to team fight.
 
-training guide  -> <trainingGuide> : Description
+training guide  -> <trainingGuide> : How to train.
 
-links & spreadsheets  -> <usefulLinks> : Description
+links & spreadsheets  -> <links-and-spreadsheets> : Useful links and spreadsheets.
 
-  Advanced Concepts
+  Advanced Guides
 
-advanced laning -> <advanced_lane> : Description
+advanced laning -> <adv-laning> : Description
 
-advanced jungle -> <advanced_jungle> : Description
+advanced jungle -> <adv-jungle> : Description
 
-advanced support -> <advanced_support> : Description
+advanced support -> <adv-support> : Description
 
 mid & late game -> <macro> : Description
 
-climbing guide -> <climbing> : Description
+climbing guide -> <climbing-soloq> : Description
 
   Team Concepts
+
 
 (Courtesy of @LightsOut263#2563)

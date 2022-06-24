@@ -1,5 +1,42 @@
 **__Training Guide__**
+  The road to improvement is a long, tough journey but like most journeys, fulfilling for those who are brave enough. This section of the guide will be what makes or breaks your journey. You can want to improve but unless you put the time and effort in, you won't reach your max potential. The activities you do and schedule you follow should fit your needs, below will be a guide on getting started but make adjustments how you see fit. Thank you for coming this far and I wish you the best of luck. 
 
-Here we will put specific training activities. 
+Growth Mindset: 
+  In my experience, the number one thing holding league players back is the need to "win". Win the game, win the lane, win the argument, ect. This hyper fixation on "winning" creates a toxic mindset that inhibits growth by distracting us from what actually matters in a game and what we can control, individual performance. By reframing the game from needing to "win" to improving your individual performance, the game becomes easier to play. Instead of every lane needing to win, you just need to hit your cs goal, or hit 80% of your skillshots, or reach whatever goals you set for yourself. Focusing on yourself and improvement is key in developing your growth mindset and start the improvement journey. 
 
-Activity <links if necessary>, why and how
+  Routine is the key to success. I recommend reading The Power of Having a Routine <https://medium.com/mind-cafe/the-power-of-having-a-routine-1c215759de28#:~:text=Routine%20allows%20you%20to%20minimize,craft%20or%20art%20a%20routine>. Its a short read and sums up why routine is so powerful. Building good habits is the foundation of improvement. The below section will be an example of how to schedule your practice as well as activities you can do. 
+  
+Schedule:
+  Morning vs Night
+    Find what works for you. If you are tired after a long day and using league to relax then don't try to play ranked. You won't be able to focus. If you aren't a real person in the morning until you have your coffee then don't queue up, go for a walk and get that Starbucks. 
+
+  Goal Setting
+    Make your goals realistic and obtainable. If you average 5cs/m then don't set a goal of 8cs/m, look for small improvements and rewards yourself for hitting your goals. There are plenty of resources, some of which will be linked later in this guide, to help with goal setting. \
+
+  3 Game Block
+    Set aside time to play, time to review, time to warm up, ect. The 3 game block is one I like but if you can play 5 games at a high level then go for it. I wouldn't necessarily play less than 3 games in a block but if you are time constrained then do what you need to do. 
+
+    Before the games you should have a dedicated warm up activity. Could be an aram, 5m in practice tool doing combos, ect. I also recommend doing a short vod review session and goal setting for the block of games. This will help keep you focused on what you need to be doing during the games. Between games, review your notes, watch key moments, stand up and drinks some water, just try to be consistent. Remember we are building habits and routine. 
+
+    After the games have a warm down, review if you are mentally able to. Reward yourself for the effort you put in. 
+
+Activities: 
+  Vod Review
+    If you aren't sure where to start in a vod review, start by looking at all your deaths. What could you have done better or differently? Make sure your vod review is aligned with your goals. If you want to cs better than don't focus on teamfighting in the vod review. Take good notes, review your notes, and try to keep everything centered around what you can do, not your teammates or anyone else. 
+
+
+
+  Here I'll just share a few popular sites or games that players use to improve their character control in game. There is no substitute for playing the game but to get warmed up or if you don't have time to play full games then use these. 
+
+  Mouse Movement
+    <https://www.mouseaccuracy.com>
+    <https://osu.ppy.sh/home>
+    <https://humanbenchmark.com/tests/aim>
+
+  Reaction Speed 
+    <https://humanbenchmark.com/tests/reactiontime> - Test your reaction speed, if you aren't between 200ms - 300ms than you need to focus on activities to improve your reaction speed. 
+
+**Additional links:**
+  
+
+(Courtesy of @LightsOut263#2563)
